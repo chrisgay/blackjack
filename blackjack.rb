@@ -117,4 +117,4 @@ class Dealer
   end
 end
 
-newgame = Blackjack.new
+Blackjack.new
